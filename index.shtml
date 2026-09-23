@@ -268,9 +268,9 @@
                     <div class="pkg-panel" data-panel="basic">
                         <div class="pkg-panel-left">
                             <span class="pkg-panel-tier">Starter</span>
-                            <div class="pkg-panel-title">Basic</div>
+                            <div class="pkg-panel-title">Star Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹1,940</span>
+                                <span class="amount">₹1,850</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">A budget-friendly package with no compromise on structural
@@ -298,7 +298,7 @@
                                     class="material-symbols-outlined">arrow_forward</span></a>
                         </div>
                         <div class="pkg-panel-right">
-                            <img src="images/pkg-premium.png" alt="Basic package home" class="pkg-panel-img">
+                            <img src="images/pkg-premium.png" alt="Star Build package home" class="pkg-panel-img">
                         </div>
                     </div>
 
@@ -306,9 +306,9 @@
                     <div class="pkg-panel active" data-panel="classic">
                         <div class="pkg-panel-left">
                             <span class="pkg-panel-tier">Best Value</span>
-                            <div class="pkg-panel-title">Classic</div>
+                            <div class="pkg-panel-title">Smart Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,070</span>
+                                <span class="amount">₹2,100</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">Our best-seller with upgraded brands like Jindal Steels, Hindware
@@ -336,7 +336,7 @@
                                     class="material-symbols-outlined">arrow_forward</span></a>
                         </div>
                         <div class="pkg-panel-right">
-                            <img src="images/pkg-classic.png" alt="Classic package home" class="pkg-panel-img">
+                            <img src="images/pkg-classic.png" alt="Smart Build package home" class="pkg-panel-img">
                         </div>
                     </div>
 
@@ -344,9 +344,9 @@
                     <div class="pkg-panel" data-panel="premium">
                         <div class="pkg-panel-left">
                             <span class="pkg-panel-tier">Elevated</span>
-                            <div class="pkg-panel-title">Premium</div>
+                            <div class="pkg-panel-title">Premium Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,400</span>
+                                <span class="amount">₹2,300</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">An elegant package crafted for modern living with provisions like
@@ -374,7 +374,7 @@
                                     class="material-symbols-outlined">arrow_forward</span></a>
                         </div>
                         <div class="pkg-panel-right">
-                            <img src="images/pkg-premium.png" alt="Premium package home" class="pkg-panel-img">
+                            <img src="images/pkg-premium.png" alt="Premium Build package home" class="pkg-panel-img">
                         </div>
                     </div>
 
@@ -382,9 +382,9 @@
                     <div class="pkg-panel" data-panel="royale">
                         <div class="pkg-panel-left">
                             <span class="pkg-panel-tier">Luxury</span>
-                            <div class="pkg-panel-title">Royale</div>
+                            <div class="pkg-panel-title">Luxury Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,640</span>
+                                <span class="amount">₹2,700</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">The ultimate plan with high-end finishes, EV charging, copper gas
@@ -412,7 +412,7 @@
                                     class="material-symbols-outlined">arrow_forward</span></a>
                         </div>
                         <div class="pkg-panel-right">
-                            <img src="images/pkg-royale.png" alt="Royale package home" class="pkg-panel-img">
+                            <img src="images/pkg-royale.png" alt="Luxury Build package home" class="pkg-panel-img">
                         </div>
                     </div>
                 </div>
