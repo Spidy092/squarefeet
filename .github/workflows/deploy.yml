@@ -1,0 +1,25 @@
+name: Deploy to MilesWeb hosting
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ftp-deploy:
+    name: FTP deploy to squareftgroup.com
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ftp.squareftgroup.com
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          # FTP account is jailed to the squareftgroup.com document root already, so deploy to /
+          server-dir: /
+          exclude: |
+            .git/**
+            .github/**
