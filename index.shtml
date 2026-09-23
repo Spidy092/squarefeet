@@ -240,23 +240,23 @@
                 <div class="pkg-tabs" data-aos="fade-up">
                     <div class="button-packages">
                     <button class="pkg-tab" data-tab="basic" data-aos="zoom-in" data-aos-delay="100">
-                        <span class="pkg-tab-name">Start Built</span>
+                        <span class="pkg-tab-name">Star Build</span>
                         <span class="pkg-tab-price">₹1850<small>/sq.ft</small></span>
                     </button>
                     
                     <button class="pkg-tab active" data-tab="classic" data-aos="zoom-in" data-aos-delay="200">
                         <!-- <span class="pkg-tab-badge">Popular</span> -->
-                        <span class="pkg-tab-name">Smart Built</span>
+                        <span class="pkg-tab-name">Smart Build</span>
                         <span class="pkg-tab-price">₹2100<small>/sq.ft</small></span>
                     </button>
                     </div>
                     <div class="button-packages">
                     <button class="pkg-tab" data-tab="premium" data-aos="zoom-in" data-aos-delay="300">
-                        <span class="pkg-tab-name">Premium Built</span>
+                        <span class="pkg-tab-name">Premium Build</span>
                         <span class="pkg-tab-price">₹2300<small>/sq.ft</small></span>
                     </button>
                     <button class="pkg-tab" data-tab="royale" data-aos="zoom-in" data-aos-delay="400">
-                        <span class="pkg-tab-name">Luxury Built</span>
+                        <span class="pkg-tab-name">Luxury Build</span>
                         <span class="pkg-tab-price">₹2700<small>/sq.ft</small></span>
                     </button>
                     </div>
