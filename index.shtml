@@ -241,23 +241,23 @@
                     <div class="button-packages">
                     <button class="pkg-tab" data-tab="basic" data-aos="zoom-in" data-aos-delay="100">
                         <span class="pkg-tab-name">Star Build</span>
-                        <span class="pkg-tab-price">₹1850<small>/sq.ft</small></span>
+                        <span class="pkg-tab-price">₹1999<small>/sq.ft</small></span>
                     </button>
                     
                     <button class="pkg-tab active" data-tab="classic" data-aos="zoom-in" data-aos-delay="200">
                         <!-- <span class="pkg-tab-badge">Popular</span> -->
                         <span class="pkg-tab-name">Smart Build</span>
-                        <span class="pkg-tab-price">₹2100<small>/sq.ft</small></span>
+                        <span class="pkg-tab-price">₹2199<small>/sq.ft</small></span>
                     </button>
                     </div>
                     <div class="button-packages">
                     <button class="pkg-tab" data-tab="premium" data-aos="zoom-in" data-aos-delay="300">
                         <span class="pkg-tab-name">Premium Build</span>
-                        <span class="pkg-tab-price">₹2300<small>/sq.ft</small></span>
+                        <span class="pkg-tab-price">₹2399<small>/sq.ft</small></span>
                     </button>
                     <button class="pkg-tab" data-tab="royale" data-aos="zoom-in" data-aos-delay="400">
                         <span class="pkg-tab-name">Luxury Build</span>
-                        <span class="pkg-tab-price">₹2700<small>/sq.ft</small></span>
+                        <span class="pkg-tab-price">₹2799<small>/sq.ft</small></span>
                     </button>
                     </div>
                 </div>
@@ -270,7 +270,7 @@
                             <span class="pkg-panel-tier">Starter</span>
                             <div class="pkg-panel-title">Star Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹1,850</span>
+                                <span class="amount">₹1,999</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">A budget-friendly package with no compromise on structural
@@ -308,7 +308,7 @@
                             <span class="pkg-panel-tier">Best Value</span>
                             <div class="pkg-panel-title">Smart Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,100</span>
+                                <span class="amount">₹2,199</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">Our best-seller with upgraded brands like Jindal Steels, Hindware
@@ -346,7 +346,7 @@
                             <span class="pkg-panel-tier">Elevated</span>
                             <div class="pkg-panel-title">Premium Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,300</span>
+                                <span class="amount">₹2,399</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">An elegant package crafted for modern living with provisions like
@@ -384,7 +384,7 @@
                             <span class="pkg-panel-tier">Luxury</span>
                             <div class="pkg-panel-title">Luxury Build</div>
                             <div class="pkg-panel-price">
-                                <span class="amount">₹2,700</span>
+                                <span class="amount">₹2,799</span>
                                 <span class="unit">/ sq.ft</span>
                             </div>
                             <p class="pkg-panel-desc">The ultimate plan with high-end finishes, EV charging, copper gas
